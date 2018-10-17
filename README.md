@@ -22,19 +22,14 @@
 
 - 瓦斯辅助脚本 **v1.2** *20181013*  
   [发布帖](https://trow.cc/board/showtopic=36977) | [下载](https://github.com/Sebastian-c4/Game_Assistant_Scripts/releases/latest)
-
 - 武器风格平衡 **beta2** *20180908*  
   [发布帖](https://trow.cc/board/showtopic=30191) | [下载](https://trow.cc/board/showtopic=30191)
-
 - 永恒原力 **v4.3** *20180916*  
   [发布帖](https://trow.cc/board/showtopic=29204) | [下载](https://github.com/Sebastian-c4/EternalForce/releases/latest)
-
 - 混元武僧 **v4.3** *20181006*  
   [发布帖](https://trow.cc/board/showtopic=29897) | [下载](https://github.com/Sebastian-c4/Hunyuan_Monk/releases/latest)
-
 - 凯尔特诗人 **v4.0** *20180918*  
   [发布帖](https://trow.cc/board/showtopic=36984) | [下载](https://github.com/Sebastian-c4/Celtic_Bard/releases/latest)
-
 - 宗派进化 **v1.0** *20181006*  
   [发布帖](https://trow.cc/board/showtopic=37006) | [下载](https://github.com/Sebastian-c4/Improved_Kits/releases/latest)
 
@@ -44,15 +39,11 @@
 
 - 战斗辅助脚本c4AI v4.1  
   [下载](https://github.com/Sebastian-c4/Game_Assistant_Scripts/releases/tag/Original)
-
 - 绝地与西斯 v3.1  
   [下载](https://github.com/Sebastian-c4/EternalForce/releases/tag/v3.1)
-
 - 混元武僧 v3.0  
   [下载](https://github.com/Sebastian-c4/Hunyuan_Monk/releases/tag/v3.0)
-
 - 凯尔特诗人 v2.1+v3.0  
   [下载](https://github.com/Sebastian-c4/Celtic_Bard/releases/tag/Original)
-
 - 废柴大开发 高等法师猎人v2(1)+大驯兽师v2(1)+小丑大师v1  
   [下载](https://trow.cc/board/showtopic=29628)
