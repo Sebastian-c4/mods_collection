@@ -20,7 +20,7 @@
 
 ## 仅增强版
 
-- 瓦斯辅助脚本 **v1.2** *20181013*  
+- 瓦斯辅助脚本 **v1.3** *20181019*  
   [发布帖](https://trow.cc/board/showtopic=36977) | [下载](https://github.com/Sebastian-c4/Game_Assistant_Scripts/releases/latest)
 - 武器风格平衡 **beta2** *20180908*  
   [发布帖](https://trow.cc/board/showtopic=30191) | [下载](https://trow.cc/board/showtopic=30191)
