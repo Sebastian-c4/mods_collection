@@ -1,7 +1,7 @@
 # c4作品汇总
 
 标注为**MEGA云盘**的下载地址须科学上网，或使用浏览器插件（然而下载插件还是需要科学上网）  
-[浏览器插件下载地址](https://mega.nz/extensions)**
+[浏览器插件下载地址](https://mega.nz/extensions)
 
 ---
 
