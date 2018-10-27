@@ -10,7 +10,7 @@
 ## 集成版
 
 - 原版：烤肉版大世界BWP_Cabob *停止更新于2018.07.23*  
-  [发布帖](https://trow.cc/board/showtopic=29768) | [作者战报](https://trow.cc/board/showtopic=29886)  
+  [发布帖](https://trow.cc/board/showtopic=29768) | [作者99%完成度战报](https://trow.cc/board/showtopic=29886)  
   下载地址：[百度网盘(密码vpeb)](http://pan.baidu.com/s/1slnzcU5) | [腾讯微云一](https://share.weiyun.com/5jXl4mg) | [腾讯微云二](https://share.weiyun.com/5IrAx2C) | [MEGA云盘](https://mega.nz/#F!ZNFhGL7C!V3qC4v1KyBRqR23P1F5a3w)
 
 ---
