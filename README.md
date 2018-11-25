@@ -41,13 +41,8 @@
 
 ## 仅原版（均为最终版本）
 
-- 战斗辅助脚本c4AI v4.1  
-  [下载](https://github.com/Sebastian-c4/Game_Assistant_Scripts/releases/tag/Original)
-- 绝地与西斯 v3.1  
-  [下载](https://github.com/Sebastian-c4/EternalForce/releases/tag/v3.1)
-- 混元武僧 v3.0  
-  [下载](https://github.com/Sebastian-c4/Hunyuan_Monk/releases/tag/v3.0)
-- 凯尔特诗人 v2.1+v3.0  
-  [下载](https://github.com/Sebastian-c4/Celtic_Bard/releases/tag/Original)
-- 废柴大开发 高等法师猎人v2(1)+大驯兽师v2(1)+小丑大师v1  
-  [下载](https://trow.cc/board/showtopic=29628)
+- 战斗辅助脚本c4AI v4.1  [下载](https://github.com/Sebastian-c4/Game_Assistant_Scripts/releases/tag/Original)
+- 绝地与西斯 v3.1  [下载](https://github.com/Sebastian-c4/EternalForce/releases/tag/v3.1)
+- 混元武僧 v3.0  [下载](https://github.com/Sebastian-c4/Hunyuan_Monk/releases/tag/v3.0)
+- 凯尔特诗人 v2.1+v3.0  [下载](https://github.com/Sebastian-c4/Celtic_Bard/releases/tag/Original)
+- 废柴大开发 高等法师猎人v2(1)+大驯兽师v2(1)+小丑大师v1  [下载](https://trow.cc/board/showtopic=29628)
