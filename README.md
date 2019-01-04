@@ -26,8 +26,8 @@
 
 - 瓦斯辅助脚本 **v1.3** *20181019*  
   [发布帖](https://trow.cc/board/showtopic=36977) | [下载](https://github.com/Sebastian-c4/Game_Assistant_Scripts/releases/latest)
-- 武器风格平衡 **beta2** *20180908*  
-  [发布帖](https://trow.cc/board/showtopic=30191) | [下载](https://trow.cc/board/showtopic=30191)
+- 武器风格平衡 **v1.0** *20190104*  
+  [发布帖](https://trow.cc/board/showtopic=30191) | [下载](https://github.com/Sebastian-c4/Weapon_Style_Rebalance/releases/latest)
 - 永恒原力 **v4.3** *20180916*  
   [发布帖](https://trow.cc/board/showtopic=29204) | [下载](https://github.com/Sebastian-c4/EternalForce/releases/latest)
 - 混元武僧 **v4.3** *20181006*  
