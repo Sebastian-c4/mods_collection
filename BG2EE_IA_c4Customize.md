@@ -1,4 +1,5 @@
 # 强化铁砧v6.4 定制版
+[更新历史](BG2EE_IA_c4Customize_Update.md)
 
 ## 安装模组
 
