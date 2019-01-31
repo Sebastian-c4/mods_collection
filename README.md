@@ -27,14 +27,14 @@
 
 ## 仅增强版
 
+- 瓦斯辅助脚本 **v1.4** *20190131*  
+  [发布帖](https://trow.cc/board/showtopic=36977) | [下载](https://github.com/Sebastian-c4/Game_Assistant_Scripts/releases/latest)
 - QC宗派集合 **v1.0** *20190123*  
   [发布帖](https://trow.cc/board/showtopic=48322) | [下载](https://github.com/Sebastian-c4/Qin06Kits_Rework/releases/latest)
 - 永恒原力 **v4.4** *20190117*  
   [发布帖](https://trow.cc/board/showtopic=29204) | [下载](https://github.com/Sebastian-c4/EternalForce/releases/latest)
 - 武器风格平衡 **v1.0** *20190104*  
   [发布帖](https://trow.cc/board/showtopic=30191) | [下载](https://github.com/Sebastian-c4/Weapon_Style_Rebalance/releases/latest)
-- 瓦斯辅助脚本 **v1.3** *20181019*  
-  [发布帖](https://trow.cc/board/showtopic=36977) | [下载](https://github.com/Sebastian-c4/Game_Assistant_Scripts/releases/latest)
 - 混元武僧 **v4.3** *20181006*  
   [发布帖](https://trow.cc/board/showtopic=29897) | [下载](https://github.com/Sebastian-c4/Hunyuan_Monk/releases/latest)
 - 凯尔特诗人 **v4.0** *20180918*  
