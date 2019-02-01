@@ -68,5 +68,19 @@
 - EEUITweaks v3.0，运行setup-EEUITweaks.exe开始安装。[该mod简要说明](https://forums.beamdog.com/discussion/60717/mod-eeuitweaks-mod-collection-all-ee-v2-2-platforms/p1)  
   推荐组件：
   - Startup/Options/Character Gen Group
-    - Mods Options + Hidden Game Options ：在
-    - 
+    - Mods Options + Hidden Game Options ：在游戏选项界面添加一个新按钮，可设置某些需要编辑baldur.lua才能实现的“隐藏设置”
+    - Portrait Selectors -> BillyYank's Multi-Portrait Mod：头像选择界面
+    - Faydark's Abilities Auto-Roller/GrimLefourbe's BG2 UI：自动投属性点。注意选择部分宗派时可能造成游戏卡死
+  - Game World/Maps/Travel Group
+    - Transparent Sidebars：左右侧栏背景透明处理
+    - lefreut's 1.3-ish Dialog Box：类似原版和BGEEv1.3的对话框，游戏信息Log和当前对话选项合并
+    - Dee's Permanent Thieving Button：将贼技按钮独立到快捷栏最右侧，可设热键，方便尤其是贼牧职业
+  - Record/Inventory/Journal Group
+    - lefreut's Improved Record Screen：人物属性界面大幅改善
+    - Journal Fixes and Tweaks：日志界面
+    - lefreut's Improved Inventory Screen：装备界面
+  - Stores/Dialogs/Spell Books Group
+    - lefreut's Store Screen Tweaks -> Default Button Position：商店/次元袋界面
+  - Multiplayer/General/Other Group
+    - lefreut's Tooltip Scroll：提示窗口羊皮纸背景
+    - lefreut's Box 5 (Dialog Box) Override：对话框边框
