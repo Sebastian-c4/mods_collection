@@ -65,4 +65,8 @@
 - 瓦斯辅助脚本 v1.3 运行setup-c4GAS.exe进行安装
 - 法术美化 v1.0 运行setup-PrettySpells.exe进行安装
 - Tweaks Anthology v8，运行setup-cdtweaks.exe可安装其他想要的组件
-- EEUITweaks v3.0，大量UI设置但组件名全英文，运行setup-EEUITweaks.exe开始安装
+- EEUITweaks v3.0，运行setup-EEUITweaks.exe开始安装。[该mod简要说明](https://forums.beamdog.com/discussion/60717/mod-eeuitweaks-mod-collection-all-ee-v2-2-platforms/p1)  
+  推荐组件：
+  - Startup/Options/Character Gen Group
+    - Mods Options + Hidden Game Options ：在
+    - 
