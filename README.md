@@ -27,7 +27,7 @@
 
 ## 仅增强版
 
-- 瓦斯辅助脚本 **v1.4** *20190131*  
+- 瓦斯辅助脚本 **v1.5** *20190213*  
   [发布帖](https://trow.cc/board/showtopic=36977) | [下载](https://github.com/Sebastian-c4/Game_Assistant_Scripts/releases/latest)
 - QC宗派集合 **v1.0** *20190123*  
   [发布帖](https://trow.cc/board/showtopic=48322) | [下载](https://github.com/Sebastian-c4/Qin06Kits_Rework/releases/latest)
