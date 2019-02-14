@@ -1,7 +1,8 @@
 [基础说明](BG2EE_IA_c4Customize.md)
 # 炒饭版更新内容
 
-## 20190214
+## 20190214  
+本更新不影响已安装的c4GAS或其他mod
 1. 修正前一次更新中的小错误
 2. 取消召唤生物的跟随行为。希望恢复可使用控制台命令：C:SetGlobal("c4_Summoned_Follow","Global",1)
 
