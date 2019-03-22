@@ -1,0 +1,55 @@
+	
+COPY_EXISTING_REGEXP - GLOB ~.*\.spl~ override
+	GET_OFFSET_ARRAY headers SPL_V10_HEADERS
+	PHP_EACH headers AS int => index BEGIN
+		GET_OFFSET_ARRAY2 effect index SPL_V10_HEAD_EFFECTS
+		PHP_EACH effect AS int => offset BEGIN
+			READ_SHORT offset opcode
+			PATCH_IF opcode=282 BEGIN
+				READ_LONG offset+4 value
+				READ_LONG offset+8 type
+				PATCH_IF type=0 BEGIN
+					SPRINT source ~%SOURCE_RES%~
+					INNER_ACTION BEGIN
+						COPY_EXISTING_REGEXP - GLOB ~.*\.2da~ override
+							PATCH_IF INDEX_BUFFER (~%source%~) >=0 BEGIN
+								SPRINT clab ~%SOURCE_RES%~
+								INNER_ACTION BEGIN
+									COPY_EXISTING - kitlist.2da override
+										COUNT_2DA_COLS cols
+										READ_2DA_ENTRIES_NOW rows cols
+										FOR (i=0;i<rows;++i) BEGIN
+											READ_2DA_ENTRY_FORMER rows i 1 kit
+											READ_2DA_ENTRY_FORMER rows i 5 table
+											PATCH_IF ~%table%~ STR_EQ ~%clab%~ BEGIN
+												SET $ss(~%kit%~) = ~%value%~
+											END
+										END
+								END
+							END
+					END
+				END
+			END
+		END
+	END
+	
+COPY ~.../c4_inlined/blank.baf~ ~kit_check.csv~
+APPEND_OUTER ~kit_check.csv~ ~Kit,File,StateValue~
+
+OUTER_FOR (i=1;i<10;++i) BEGIN
+	ACTION_PHP_EACH ss AS kit => value BEGIN
+		ACTION_IF value=i BEGIN
+			PRINT ~%kit% >> SCRIPTINGSTATE1 = %value%~
+			COPY_EXISTING_REGEXP - GLOB ~.*\.bcs~ override ~.*\.dlg~ override
+				DECOMPILE_AND_PATCH BEGIN
+					PATCH_IF	(INDEX_BUFFER (~[^!]*CheckStat(.+,%value%,SCRIPTINGSTATE1)~) >=0)
+								||	(INDEX_BUFFER (~[^!]*Kit(.+,%kit%)~) >=0)
+					BEGIN
+						INNER_ACTION BEGIN
+							APPEND_OUTER ~kit_check.csv~ ~%kit%,%SOURCE_FILE%,%value%~
+						END
+					END
+				END
+		END
+	END
+END
