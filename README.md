@@ -27,10 +27,10 @@
 
 ## 仅增强版
 
+- QC宗派集合 **v1.1.0** *20190824*  
+  [发布帖](https://trow.cc/board/showtopic=48322) | [下载](https://github.com/Sebastian-c4/Qin06Kits_Rework/releases/latest)
 - 瓦斯辅助脚本 **v1.5** *20190213*  
   [发布帖](https://trow.cc/board/showtopic=36977) | [下载](https://github.com/Sebastian-c4/Game_Assistant_Scripts/releases/latest)
-- QC宗派集合 **v1.0** *20190123*  
-  [发布帖](https://trow.cc/board/showtopic=48322) | [下载](https://github.com/Sebastian-c4/Qin06Kits_Rework/releases/latest)
 - 永恒原力 **v4.4** *20190117*  
   [发布帖](https://trow.cc/board/showtopic=29204) | [下载](https://github.com/Sebastian-c4/EternalForce/releases/latest)
 - 武器风格平衡 **v1.0** *20190104*  
